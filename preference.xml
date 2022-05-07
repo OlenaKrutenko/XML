@@ -1,0 +1,17 @@
+<film>
+	<favoriteFilm>Friends</favoriteFilm>
+
+</film>
+
+<dish>
+	<favoriteDish>Salad</favoriteDish>
+</dish>
+
+<season>
+	<favoriteSeason>Spring</favoriteSeason>
+</season>
+
+<country>
+	<favoriteCountry>Spain</favoriteCountry>
+
+</country>
