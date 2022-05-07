@@ -1,1 +1,29 @@
+<id>
+  <nameId>B1</nameId>
+</id>
 
+<summary>
+  <nameSummary> The language flag does not change in the top menu when switching the language from English to any </nameSummary>
+  </summary>
+<step to reproduce>
+  <nameStep1> Open the site https://www.amazon.com/</nameStep1>
+  <nameStep2>In the top menu of the site on the right click the icon "Change language"</nameStep2>
+  <nameStep3>In the window that opens, select radiobutton Español - ES - Traducción</nameStep3>
+  <nameStep4>Press the "Guardar Cambios" button</nameStep4>
+  nameStep5> After switching the language, the flag does not switch to Spanish</nameStep5>
+</step to reproduce>
+<actual result>
+  <nameActualresult>When switching languages from English to Spanish, there is no change of flag</nameActualresult>
+</actual result>
+
+<expected result>
+  <nameExpectedresult>When switch languages from English to Spanish, the flag changes.</nameExpectedresult>
+</expected result>
+
+<severity>
+  <nameSeverity>Minor</nameSeverity>
+</severity>
+
+<priority>
+  <namePriority>Hight</namePriority>
+</priority>
